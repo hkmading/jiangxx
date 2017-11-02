@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>jiang-xiaoxiao-web</title>
+    <link href="http://www.jiangxx.com/feed.xml" rel="self" />
+    <link href="http://www.jiangxx.com" />
+    <updated>2017-11-02T11:10:03+08:00</updated>
+    <author>
+        <name>Jiang Xiaoxiao</name>
+    </author>
+    <id>http://www.jiangxx.com</id>
+
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Jiang Xiaoxiao</name>
+        </author>
+        <link href="http://www.jiangxx.com/welcome.html"/>
+        <id>http://www.jiangxx.com/welcome.html</id>
+
+        <updated>2017-11-02T11:00:44+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Welcome
+            ]]>
+        </content>
+    </entry>
+</feed>

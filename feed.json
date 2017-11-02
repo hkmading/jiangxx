@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jiang-xiaoxiao-web",
+    "description": "",
+    "home_page_url": "http://www.jiangxx.com",
+    "feed_url": "http://www.jiangxx.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jiang Xiaoxiao"
+    },
+    "items": [
+        {
+            "id": "http://www.jiangxx.com/welcome.html",
+            "url": "http://www.jiangxx.com/welcome.html",
+            "title": "Welcome",
+            "content_html": "Welcome",
+            "author": {
+                "name": "Jiang Xiaoxiao"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-11-02T11:00:44+08:00",
+            "date_modified": "2017-11-02T11:00:44+08:00"
+        }
+    ]
+}
